@@ -9,7 +9,6 @@ public class Questions {
          * 
          * How many variables are in the class "Vehicle"?
          */
-        
         return 3;
     }
 
@@ -19,7 +18,6 @@ public class Questions {
          * 
          * What line number represents the end of the "accelerate" method? 
          */
-
         return 14;
     }
 
@@ -27,7 +25,6 @@ public class Questions {
         /* 
          * What datatype is expected to be returned in the "honk" method?
          */
-
         return "String";
     }
     
